@@ -11,10 +11,14 @@
             "id": "39fefc73bf742c61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "theory/aulas/Algoritmos Computacionais.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Algoritmos Computacionais"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70833d33318dca98",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "theory/aulas/Algoritmos Computacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Algoritmos Computacionais"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "theory/aulas/Algoritmos Computacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Algoritmos Computacionais"
             }
           },
           {
@@ -150,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "theory/aulas/Algoritmos Computacionais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Algoritmos Computacionais"
             }
           }
         ]
@@ -179,6 +187,8 @@
   },
   "active": "39fefc73bf742c61",
   "lastOpenFiles": [
+    "theory/aulas/Algoritmos Computacionais.md",
+    "theory/aulas",
     "pratic/java/aulas/Aula001/bin/module-info.class",
     "pratic/java/aulas/Aula001/bin/Aula001/Aula001.class",
     "pratic/java/aulas/Aula001/bin/Aula001",
@@ -187,8 +197,6 @@
     "pratic/java/aulas/Aula001/src/module-info.java",
     "pratic/java/aulas/Aula001/src",
     "pratic/java/aulas/Aula001/bin",
-    "pratic/java/aulas/Aula001",
-    "pratic/java/aulas",
-    "pratic/java/Aulas/bin/Aula002/package-info.class"
+    "pratic/java/aulas/Aula001"
   ]
 }
