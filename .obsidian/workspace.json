@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4793b25b94a16bf2",
+        "id": "0639c2dd1396bb02",
         "type": "tabs",
         "children": [
           {
-            "id": "39fefc73bf742c61",
+            "id": "7c2b8443e242453d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/aulas/Algoritmos Computacionais.md",
+                "file": "theory/aulas/aula001/Algoritmos Computacionais.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/aulas/Algoritmos Computacionais.md",
+                "file": "theory/aulas/aula001/Algoritmos Computacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/aulas/Algoritmos Computacionais.md",
+                "file": "theory/aulas/aula001/Algoritmos Computacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/aulas/Algoritmos Computacionais.md",
+                "file": "theory/aulas/aula001/Algoritmos Computacionais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,9 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39fefc73bf742c61",
+  "active": "7c2b8443e242453d",
   "lastOpenFiles": [
-    "theory/aulas/Algoritmos Computacionais.md",
+    "theory/aulas/aula001/Pasted image 20260624113051.png",
+    "theory/aulas/aula001/Pasted image 20260624112945.png",
+    "theory/aulas/aula001/Algoritmos Computacionais.md",
+    "theory/aulas/aula001",
+    "theory/aulas/aula001/Pasted image 20260624112653.png",
     "theory/aulas",
     "pratic/java/aulas/Aula001/bin/module-info.class",
     "pratic/java/aulas/Aula001/bin/Aula001/Aula001.class",
@@ -196,7 +200,6 @@
     "pratic/java/aulas/Aula001/src/Aula001",
     "pratic/java/aulas/Aula001/src/module-info.java",
     "pratic/java/aulas/Aula001/src",
-    "pratic/java/aulas/Aula001/bin",
-    "pratic/java/aulas/Aula001"
+    "pratic/java/aulas/Aula001/bin"
   ]
 }
