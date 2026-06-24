@@ -173,9 +173,22 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "39fefc73bf742c61",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "pratic/java/aulas/Aula001/bin/module-info.class",
+    "pratic/java/aulas/Aula001/bin/Aula001/Aula001.class",
+    "pratic/java/aulas/Aula001/bin/Aula001",
+    "pratic/java/aulas/Aula001/src/Aula001/Aula001.java",
+    "pratic/java/aulas/Aula001/src/Aula001",
+    "pratic/java/aulas/Aula001/src/module-info.java",
+    "pratic/java/aulas/Aula001/src",
+    "pratic/java/aulas/Aula001/bin",
+    "pratic/java/aulas/Aula001",
+    "pratic/java/aulas",
+    "pratic/java/Aulas/bin/Aula002/package-info.class"
+  ]
 }
