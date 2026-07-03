@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0639c2dd1396bb02",
+        "id": "dc2169377c529a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c2b8443e242453d",
+            "id": "8184f7da92d09c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70833d33318dca98",
@@ -185,13 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c2b8443e242453d",
+  "active": "8184f7da92d09c9e",
   "lastOpenFiles": [
-    "theory/aulas/aula001/Pasted image 20260624113051.png",
-    "theory/aulas/aula001/Pasted image 20260624112945.png",
+    "theory/aulas/aula001/img/fluxograma.png",
     "theory/aulas/aula001/Algoritmos Computacionais.md",
+    "theory/aulas/aula001/img/portugol.png",
+    "theory/aulas/aula001/img/nassi.png",
+    "Pasted.md",
+    "theory/aulas/aula001/img",
     "theory/aulas/aula001",
-    "theory/aulas/aula001/Pasted image 20260624112653.png",
     "theory/aulas",
     "pratic/java/aulas/Aula001/bin/module-info.class",
     "pratic/java/aulas/Aula001/bin/Aula001/Aula001.class",
@@ -199,7 +200,6 @@
     "pratic/java/aulas/Aula001/src/Aula001/Aula001.java",
     "pratic/java/aulas/Aula001/src/Aula001",
     "pratic/java/aulas/Aula001/src/module-info.java",
-    "pratic/java/aulas/Aula001/src",
-    "pratic/java/aulas/Aula001/bin"
+    "pratic/java/aulas/Aula001/src"
   ]
 }
